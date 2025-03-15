@@ -7,3 +7,13 @@ step{
 	stage("retail banking updated");
 
 }
+
+//jira AB-101
+
+Creating retail banking code
+
+stage{
+
+	step ("retil banking");
+} 
+
