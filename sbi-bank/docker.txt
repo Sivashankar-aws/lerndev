@@ -1,1 +1,9 @@
 This is docker file
+
+//Jira AB-102
+
+step{
+
+	stage("retail banking updated");
+
+}
