@@ -2,3 +2,4 @@ Use Windows OS
 echo "Ubuntu"
 echo "SuSE Linux"
 echo "Mint OS"
+echo "Windows 10"
