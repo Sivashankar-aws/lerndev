@@ -1,3 +1,4 @@
 Use Ubuntu OS
 echo "Ubuntu"
 echo "SuSE Linux"
+echo "Mint OS"
