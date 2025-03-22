@@ -33,3 +33,14 @@ stage{
 
 	step ("retil banking");
 } 
+<<<<<<< HEAD
+=======
+//jira AB-105
+
+Creating retail banking code
+
+stage{
+
+	step ("retil banking");
+} 
+>>>>>>> devops
