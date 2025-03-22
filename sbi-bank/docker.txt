@@ -33,23 +33,3 @@ stage{
 
 	step ("retil banking");
 } 
-
-This is first line
-
-This is seconde line
-
-THis is third line
-
-This is forth line
-
-This is fifth line
-
-This is sixth line
-
-This is seventh line
-
-This is eight line
-
-This is ninth line
-
-This is tenth line
