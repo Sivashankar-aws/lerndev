@@ -41,3 +41,11 @@ stage{
 
 	step ("retil banking");
 } 
+//jira AB-106
+
+Creating retail banking code
+
+stage{
+
+	step ("retil banking");
+} 
