@@ -1,4 +1,4 @@
-Use Ubuntu OS
+Use Windows OS
 echo "Ubuntu"
 echo "SuSE Linux"
 echo "Mint OS"
