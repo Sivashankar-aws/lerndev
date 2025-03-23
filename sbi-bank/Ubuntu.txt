@@ -2,8 +2,6 @@ Use Windows OS
 echo "Ubuntu"
 echo "SuSE Linux"
 echo "Mint OS"
-<<<<<<< HEAD
 echo "Windows 11"
-=======
 echo "Windows 10"
->>>>>>> 62de0456a738b700af12595c93246adc07c4df0b
+echo "Jira102"
